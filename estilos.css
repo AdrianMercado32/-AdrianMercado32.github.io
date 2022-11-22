@@ -453,8 +453,7 @@ figure .trasera p {
 
 
 
-body{
-    background-image: url(fondo.gif);    
-    background-attachment: fixed;
-    background-size: cover;
+body 
+{
+	background:"black";
 }
